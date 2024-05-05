@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(80, 71, 61);
+    font-family: 'verdana';
+}
+
+input{
+    width: 400px;
+    height: 30px;
+   
+    border: none;
+   
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: rgb(3, 3, 3);
+    
+}
+
+a{
+    text-decoration: none;
+    color: rgb(253, 251, 251);
+    background-color: rgb(228, 40, 40);
+    padding: 4px;
+}
+a:hover{
+    background-color: rgba(49, 57, 104, 0.555);
+    color: rgb(228, 40, 40);
+}
+
+td{
+    
+    padding: 5px;
+    text-align: center;
+    font-size: 15px;
+}
+tr:hover{
+    background-color: rgba(252, 130, 130, 0.144);
+    color: rgb(253, 251, 251);
+}
