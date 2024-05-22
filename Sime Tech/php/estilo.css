@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+
+.back{
+    background-image:url('images/back2.jpg') ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 80vh;
+    color: aliceblue;
+    outline-color: black;
+}
+
+.titulo{
+    font-size: 20px;
+    font-family:'verdana','Times New Roman', Times, serif;
+    text-align: left;
+    margin-left: 5%;
+    text-shadow: 2px 2px 4px #000000;
+}
+
+.titulo h1{
+    font-size: 120px;
+   
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    text-shadow: 2px 2px 4px #000000;
+
+}
+
+.descricao{
+    width:750px;
+    height: 350px;
+   
+    overflow: hidden;
+}
