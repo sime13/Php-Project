@@ -35,7 +35,7 @@ require_once 'conection.php'
         } else {
             echo "Usuário não encontrado!";
         }
-    } else {
+    } else {     
         echo "ID do usuário não encontrado na sessão.";
     }
 
